@@ -1,0 +1,1 @@
+-high -w 1280 -h 1024 -freq 75 -novid -nojoy -tickrate 128
